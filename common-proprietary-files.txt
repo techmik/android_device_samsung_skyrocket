@@ -79,6 +79,7 @@ lib/libgemini.so
 lib/libs3cjpeg.so
 lib/liboemcamera.so
 lib/libmmipl.so
+lib/libmmjpeg.so
 lib/libmmmpo.so
 lib/libmmstereo.so
 
